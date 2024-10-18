@@ -1,4 +1,4 @@
-# Django documentation build configuration file, created by
+# Django documentation build configuration file, created by.
 # sphinx-quickstart on Thu Mar 27 09:06:53 2008.
 #
 # This file is execfile()d with the current directory set to its containing dir.
